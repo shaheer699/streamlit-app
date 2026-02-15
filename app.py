@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="Shaheer App", page_icon="🔥", layout="centered")
+st.set_page_config(page_title="Shaheer App", page_icon="❤️", layout="centered")
 
 st.title("Welcome Shaheer 👋")
 
